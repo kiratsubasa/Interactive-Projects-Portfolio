@@ -1,26 +1,32 @@
-# Interactive-Projects-Portfolio
+# Interactive Projects Portfolio
 
-### Hsiao-Chin(Bella), Yu
-#### Design Engineer / Master Student(Media Design)
+### Hsiao-Chin (Bella) Yu
+#### Design Engineer • Media Design Master's Student @ Keio University
 
 <hr />
 
 ### Skills
+
+**Creative Coding**
 - Max/MSP
 - TouchDesigner
 - Unity
-- Arduino
-- Raspberry Pi
 - Processing
+
+**Programming**
 - C++
 - Python
-- Javascript
-- etc.
+- JavaScript
 
+**Hardware**
+- Arduino
+- Raspberry Pi
+
+<hr />
 
 ### Projects
-- Haptic Sharing Device
-  - Tools: Max/MSP, TouchDesigner, Ableton, etc.
+- **Haptic Sharing Device:** Haptic communication systems for live performances.
+  - Technologies: Max/MSP, TouchDesigner, Ableton, etc.
   - Live Performance System
     
     <p>
@@ -35,8 +41,8 @@
       <img alt="hotaru2" title="hotaru2" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/hotaru2.png?raw=true" height="300px">
     </p>
     
-- Interactive Installation
-  - Tools: Arduino, Raspberry Pi, Processing, etc.
+- **Interactive Installation:** Designing interactive experiences by integrating software and hardware.
+  - Technologies: Arduino, Raspberry Pi, Processing, etc.
      <p>
       <img alt="thedream" title="thedream" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/the_dream.png?raw=true" height="300px">
       <img alt="thedream2" title="thedream2" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/the_dream2.png?raw=true" height="300px">
@@ -45,7 +51,6 @@
       <img alt="senses" title="senses" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/senses.png?raw=true" height="300px">
       <img alt="senses2" title="senses2" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/senses2.png?raw=true" height="300px">
     </p>
-- Website
+- **Website:** Designing and developing interactive web applications with modern frameworks.
   - Tools: Vue.js, React, Bootstrap, Adobe XD, Figma, etc.
     <p><img alt="dooperation2" title="dooperation2" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/dooperation2.png?raw=true" height="700px"></p>
-- etc.
