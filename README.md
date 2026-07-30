@@ -47,6 +47,5 @@
     </p>
 - Website
   - Tools: Vue.js, React, Bootstrap, Adobe XD, Figma, etc.
-    <p><img alt="dooperation" title="dooperation" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/dooperation.png?raw=true" height="90px"></p>
     <p><img alt="dooperation2" title="dooperation2" src="https://github.com/kiratsubasa/Interactive-Projects-Portfolio/blob/main/img/dooperation2.png?raw=true" height="700px"></p>
 - etc.
