@@ -1,4 +1,4 @@
-# Interactive Projects Portfolio
+# Portfolio
 
 ### Hsiao-Chin (Bella) Yu
 #### Design Engineer • Media Design Master's Student @ Keio University
